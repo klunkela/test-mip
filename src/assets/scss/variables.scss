@@ -1,0 +1,27 @@
+$black: rgb(0, 0, 0);
+$gray: rgb(240, 240, 240);
+
+$bp-small: 48em; // 768px
+$bp-medium: 64em; // 1024px
+$bp-large: 85.375em; // 1366px
+$bp-xlarge: 120em; // 1920px
+$bp-xxlarge: 160em; // 2560px
+$bp-xxxlarge: 240em;
+$bp-xxxxlarge: 320em;
+$bp-xxxxxlarge: 480em;
+$bp-xxxxxxlarge: 640em;
+
+$mq-small: "(min-width: #{$bp-small})";
+$mq-medium: "(min-width: #{$bp-medium})";
+$mq-large: "(min-width: #{$bp-large})";
+$mq-xlarge: "(min-width: #{$bp-xlarge})";
+$mq-xxlarge: "(min-width: #{$bp-xxlarge})";
+$mq-xxxlarge: "(min-width: #{$bp-xxxlarge})";
+$mq-xxxxlarge: "(min-width: #{$bp-xxxxlarge})";
+$mq-xxxxxlarge: "(min-width: #{$bp-xxxxxlarge})";
+$mq-xxxxxxlarge: "(min-width: #{$bp-xxxxxxlarge})";
+
+$base-font-size: 1em;
+
+$base-line-height: 1.5;
+$header-line-height: 1.25;
